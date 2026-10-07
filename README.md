@@ -1,2 +1,3 @@
 # resources
-reference resources
+Reference resources for AI generations via API
+
